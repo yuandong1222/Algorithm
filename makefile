@@ -1,5 +1,5 @@
 PROBLEM = 0008_sort
-SOLUTION = merge
+SOLUTION = merging
 
 INCLUDE = include
 SRC = src
