@@ -23,11 +23,13 @@ The performance test includes include different sort algorithm with different in
 ### 2.0 Clone
 
 $ git clone https://github.com/yuandong1222/Algorithm.git
+
 $ cd Alogrithm
 
 ### 2.1 Run and Judge Single Test
 
 $ vim makefile and replace PROBLEM and SOLUTION to what you want
+
 $ make run_test
 
 ### 2.2 Run Performance Test
